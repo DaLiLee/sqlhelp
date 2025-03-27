@@ -1,0 +1,31 @@
+{
+  "root_dir": "/Users/zhiaiyoumeng/Downloads/scripts",
+  "version_dir": "/Users/zhiaiyoumeng/IdeaProjects/gpmscloud-release-versions",
+  "story_dir": "/Users/zhiaiyoumeng/IdeaProjects/gpmscloud-release-versions/配置单/需求",
+  "responsible_person": "Lijinwei",
+  "databases": [
+    "gpx_basic",
+    "gpms_procurement",
+    "gpx_tender",
+    "gp-gpfa",
+    "kkk333"
+  ],
+  "versions": [
+    "V6.3.30.10",
+    "V6.2.10.70",
+    "V5.6.30.5.RH",
+    "V6.3.20.20"
+  ],
+  "regions": [
+    "通用执行",
+    "广东执行",
+    "四川执行",
+    "山西执行",
+    "海南执行"
+  ],
+  "dirs": [
+    "版本目录",
+    "配置单",
+    "测试目录"
+  ]
+}
